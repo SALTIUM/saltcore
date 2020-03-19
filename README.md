@@ -2,7 +2,7 @@
 <a href="https://github.com/saltium"><img alt="Saltium" src="https://saltium.blogspot.com</a>
 <br/>
 <strong>Creating equitable access to the global financial system</strong>
-<h1>Saltium basee</h1>
+<h1>Saltium base</h1>
 </div>
 <p align="center">
 <a href="https://travis-ci.org/saltium"><img alt="Build Status" src="https://travis-ci.org/saltium/salt.base" /></a>
